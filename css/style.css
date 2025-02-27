@@ -74,7 +74,7 @@
       background: url('../Fotos/foto9.jpg') no-repeat center center fixed;
       background-size: cover;
       min-height: 60vh;
-        background-position: inherit;
+        background-position: left;
     }
     .overlay-box {
       position: absolute;
