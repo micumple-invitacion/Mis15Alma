@@ -19,8 +19,8 @@
     setInterval(updateCountdown, 1000);
 
     
-  let audio = document.getElementById("miaudio");
-    audio.play();
+  var audio = document.getElementById("miaudio");
+    audio.load();
 
   /* ===== MODAL DEL FORMULARIO ===== */
   const reserveBtn = document.getElementById("reserveBtn");
