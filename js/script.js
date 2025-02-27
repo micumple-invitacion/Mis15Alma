@@ -19,7 +19,8 @@
     setInterval(updateCountdown, 1000);
 
     
-  
+  document.getElementById("miaudio").play();
+
   /* ===== MODAL DEL FORMULARIO ===== */
   const reserveBtn = document.getElementById("reserveBtn");
   const modal = document.getElementById("reservationForm");
