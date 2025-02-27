@@ -76,7 +76,7 @@
       background: url('../Fotos/foto18copia.jpg') no-repeat center center fixed;
       background-size: cover;
       min-height: 50vh;
-      background-position: top right;
+      background-position: top center;
     }
     .overlay-box {
       position: absolute;
