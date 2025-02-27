@@ -72,7 +72,7 @@
     .details {
       color: #fff;
       background: url('../Fotos/foto9.jpg') no-repeat center center fixed;
-      background-size:100vh;
+      background-size: 150vw;
       min-height: 50vh;
       background-position: top left;
     }
@@ -81,7 +81,7 @@
       top: 100px;
       left: 100px;
       background: rgba(0, 0, 0, 0.5);
-      padding: 20px;
+      padding: 10px;
       border-radius: 10px;
       max-width: 300px;
     }
