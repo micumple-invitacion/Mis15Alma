@@ -42,6 +42,7 @@
         font-family: "Ephesis", serif;
         font-weight: 1.5em;
         font-style: normal;
+        font-size: 1.5em;
       }
     /* ===== SECCIÓN 2: CUENTA REGRESIVA ===== */
     .countdown {
@@ -72,10 +73,10 @@
     /* ===== SECCIÓN 3: DETALLES DEL EVENTO ===== */
     .details {
       color: #fff;
-      background: url('../Fotos/foto9.jpg') no-repeat center center fixed;
-      background-size: 150vw;
+      background: url('../Fotos/foto8.jpg') no-repeat center center fixed;
+      background-size: cover;
       min-height: 50vh;
-      background-position: top left;
+      background-position: top;
     }
     .overlay-box {
       position: absolute;
