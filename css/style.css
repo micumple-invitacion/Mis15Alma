@@ -72,9 +72,9 @@
     .details {
       color: #fff;
       background: url('../Fotos/foto9.jpg') no-repeat center center fixed;
-      background-size: cover;
-      min-height: 60vh;
-        background-position: left;
+      background-size:100vh;
+      min-height: 50vh;
+      background-position: top left;
     }
     .overlay-box {
       position: absolute;
