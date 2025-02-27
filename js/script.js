@@ -19,7 +19,7 @@
     setInterval(updateCountdown, 1000);
 
     
-  const audio = document.getElementById("miaudio");
+  let audio = document.getElementById("miaudio");
     audio.play();
 
   /* ===== MODAL DEL FORMULARIO ===== */
