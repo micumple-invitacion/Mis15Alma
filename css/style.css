@@ -39,8 +39,9 @@
         width: 100%;
       }
       .frase {
-        font-family: brush script MT;
-        font-size: 1.5em;
+        font-family: "Ephesis", serif;
+        font-weight: 1.5em;
+        font-style: normal;
       }
     /* ===== SECCIÓN 2: CUENTA REGRESIVA ===== */
     .countdown {
